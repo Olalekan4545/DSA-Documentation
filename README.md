@@ -18,4 +18,9 @@ This analysis will enable **kms** makes informed descision about logistics strat
 * **Express Air**, the **fastest shipping method**, is underutilized, it shows misalignment between **urgent delivery and method of selection**
 * The **consumer segments** accounts for the highest sales, providing opportunities for targetted promotion
 *  **Buttom 10 customers** by sales volume gives insights for revenue improvement through personalized engagement and markertting effots
-### ** Tools & Techonologies **
+#### ** Tools & Techonologies **
+* **SQL Server**(Structured Query Language) for data extraction and aggregation
+* **Microsoft Excel** for basic review
+* **Relational database** containing KMS order and logistics data
+* Visual insights supported by summary of tables
+

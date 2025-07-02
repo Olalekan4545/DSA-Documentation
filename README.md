@@ -14,3 +14,8 @@ This analysis will enable **kms** makes informed descision about logistics strat
 * track customer with the highest order and highest profitability
 * locate customer with returned orders and which customer segments have the highest return
 #### **Business Insights**
+* **Delivery Truck**,it is considered as the economical per shipment, it appear to incure **highest shipping cost** due to overuse
+* **Express Air**, the **fastest shipping method**, is underutilized, it shows misalignment between **urgent delivery and method of selection**
+* The **consumer segments** accounts for the highest sales, providing opportunities for targetted promotion
+*  **Buttom 10 customers** by sales volume gives insights for revenue improvement through personalized engagement and markertting effots
+### ** Tools & Techonologies **

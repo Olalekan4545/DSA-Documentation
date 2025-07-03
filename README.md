@@ -25,7 +25,9 @@ This analysis will enable **kms** makes informed descision about logistics strat
 #### Files Included
 * [`Kms_analysis.sql`](Kms_analysis.sql) – All SQL queries used
 * insights.md – Written insights and business recommendations
-* (Optional) Images and visualizations (screenshots)
+* [`image1.png`](image1.png)
+* [`image2.png`](image2.png)
+* [`Image3.png`](Image3.png) Images and visualizations (screenshots)
 #### ** Tools Used **
 * **SQL Server**(Structured Query Language) for data extraction and aggregation
 * **Microsoft Excel** for basic review

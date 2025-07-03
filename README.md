@@ -24,7 +24,6 @@ This analysis will enable **kms** makes informed descision about logistics strat
 - Improve order prioritization to balance shipping cost and speed.
 #### Files Included
 * [`Kms_analysis.sql`](Kms_analysis.sql) – All SQL queries used
-* insights.md – Written insights and business recommendations
 * [`image1.png`](image1.png)
 * [`image2.png`](image2.png)
 * [`Image3.png`](Image3.png) Images and visualizations (screenshots)

@@ -1,8 +1,8 @@
 #### 📈 Insights from SQL Analysis of KPS Dataset
 
 ##### **Top Regions**
-- The top 3 regions by sales are [Region A], [Region B], and [Region C].
-- Ontario is one of the highest-performing regions with $X total sales.
+- The top 3 regions by sales are [West], [Ontario], and [prarie].
+- West is one of the highest-performing regions with 3597549k total sales.
 
 ##### **Customer Segments**
 - The *Corporate* segment generates the highest sales.

@@ -24,7 +24,7 @@ This analysis will enable **kms** makes informed descision about logistics strat
 - Strengthen relationships with low-value customers using direct communication and personalized offers.
 - Improve order prioritization to balance shipping cost and speed.
 - 
-#### ** Tools Used **
+####  Tools Used
 * **SQL Server**(Structured Query Language) for data extraction and aggregation
 * **Microsoft Excel** for basic review
 * **Relational database** containing KMS order and logistics data

@@ -35,11 +35,13 @@ Select top 10 [Customer_Name], SUM([Sales]) as [Total Sales]
 from [KMS Sql Case Study1]
 group by Customer_Name
 order by [Total Sales] asc
+    
 /* To boost sales from the bottom 10 customers, the company should focus on strengthening relationships 
 through customized promotions, puchasing behaviours, Reaching out directly through calls or emails to their customers to understand their past experience,
 Give discounts on their most viewed or previously purchased products, Upsell and Cross-sell Offers,
 Offer faster delivery, better after-sales support, or dedicated account managers for small businesses and  Survey to Understand 
 the Needs of the customers, what would make them again and why they havent been coming frequently*/
+    
 
 ------KMS incurred the Most shipping cost using which shipping method ?
 

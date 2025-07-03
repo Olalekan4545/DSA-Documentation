@@ -2,6 +2,7 @@
 #### **Description**
 This project present a Comprehensive SQL-based analysis of **KMS Sales Operations**, which focus on the relationship between shipping cost,order of priority,cost optimization, customer and  segment-level sales performannces.
 This analysis will enable **kms** makes informed descision about logistics strategy, customer engagement and revenue growth.
+
 #### **Key Objectives**
 ###### **Shipping & Logistics**
 * Analysing Total shipping costs by method (Delivery Truck, Regular Air, Express Air)
@@ -22,18 +23,19 @@ This analysis will enable **kms** makes informed descision about logistics strat
 #### **Recommendations**
 - Strengthen relationships with low-value customers using direct communication and personalized offers.
 - Improve order prioritization to balance shipping cost and speed.
-#### Files Included
-* [`README.md`](README.md) - Summary of the project
-* [`Kms_analysis.sql`](Kms_analysis.sql) – All SQL queries used
-* [`insights.md`](insights.md) – Written insights and business recommendations
-* Images and visualizations (screenshots)
-* [`image1.png`](image1.png)
-* [`image2.png`](image2.png)
-* [`Image3.png`](Image3.png) 
+- 
 #### ** Tools Used **
 * **SQL Server**(Structured Query Language) for data extraction and aggregation
 * **Microsoft Excel** for basic review
 * **Relational database** containing KMS order and logistics data
 
- 
+ #### Files Included
+* [`README.md`](README.md) - Summary of the project
+* [`Kms_analysis.quries`](Kms_analysis.quries) – All SQL queries used
+* [`insights.md`](insights.md) – Written insights and business recommendations
+* Images and visualizations (screenshots)
+* [`image1.png`](image1.png)
+* [`image2.png`](image2.png)
+* [`Image3.png`](Image3.png) 
+
 

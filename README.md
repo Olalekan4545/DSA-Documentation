@@ -23,7 +23,7 @@ This analysis will enable **kms** makes informed descision about logistics strat
 - Strengthen relationships with low-value customers using direct communication and personalized offers.
 - Improve order prioritization to balance shipping cost and speed.
 #### Files Included
-* [`Kms_analysis queries.sql`](Kms_analysis queries.sql) – All SQL queries used
+* [`Kms_analysis.sql`](Kms_analysis.sql) – All SQL queries used
 * insights.md – Written insights and business recommendations
 * (Optional) Images and visualizations (screenshots)
 #### ** Tools Used **

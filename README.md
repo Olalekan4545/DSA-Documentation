@@ -23,4 +23,5 @@ This analysis will enable **kms** makes informed descision about logistics strat
 * **Microsoft Excel** for basic review
 * **Relational database** containing KMS order and logistics data
 * Visual insights supported by summary of tables
+* 
 

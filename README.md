@@ -1,4 +1,4 @@
-5# KMS Shipping Cost and Logistics Customer Analysis
+# KMS Shipping Cost and Logistics Customer Analysis
 #### **Description**
 This project present a Comprehensive SQL-based analysis of **KMS Sales Operations**, which focus on the relationship between shipping cost,order of priority,cost optimization, customer and  segment-level sales performannces.
 This analysis will enable **kms** makes informed descision about logistics strategy, customer engagement and revenue growth.
@@ -31,10 +31,10 @@ This analysis will enable **kms** makes informed descision about logistics strat
 
  #### Files Included
 * [`README.md`](README.md) - Summary of the project
-* [`Kms_analysis.quries`](Kms_analysis.quries) – All SQL queries used
-* [`insights.md`](insights.md) – Written insights and business recommendations
-* [`KMS_sql_case_study.csv`](`KMS_sql_case_study.csv) Data used for the Analysis
+* [`Kms_analysis.quries~](Kms_analysis.quries) – All SQL queries used
+* [`insights.md`](insights.md) Written insights and business recommendations
+* [~KMS Sql Case Study.csv~](KMS Sql Case Study.csv) Data used for the Analysis
 * Images and visualizations (screenshots)
 [~Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)
 * [`Buttom_10_customers.png`](Buttom_10_customers.png)
-* [`Shipping-cost.png`](Shipping-cost.png) 
+* [`shipping-cost.png`](shipping-cost.png) 

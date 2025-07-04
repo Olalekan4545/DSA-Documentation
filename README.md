@@ -35,8 +35,16 @@ This analysis will enable **kms** makes informed descision about logistics strat
 * [`insights.md`](insights.md) – Written insights and business recommendations
 * [`KMS_sql_case_study.csv`](`KMS_sql_case_study.csv) Data used for the Analysis
 * Images and visualizations (screenshots)
-* [`Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png.png)
-* [`Buttom_10_customers.png`](Buttom_10_customer.png.png)
+* [`.
+Navigation Menu
+Kms-Sql-Analysis
+
+Code
+Issues
+Pull requests
+Kms-Sql-Analysis
+[~Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)
+* [`Buttom_10_customers.png`](Buttom_10_customers.png.png)
 * [`Shipping_cost.png`](Shipping_cost.png) 
 
 

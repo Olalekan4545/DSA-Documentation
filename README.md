@@ -23,7 +23,7 @@ This analysis will enable **kms** makes informed descision about logistics strat
 #### **Recommendations**
 - Strengthen relationships with low-value customers using direct communication and personalized offers.
 - Improve order prioritization to balance shipping cost and speed.
-- 
+
 ####  Tools Used
 * **SQL Server**(Structured Query Language) for data extraction and aggregation
 * **Microsoft Excel** for basic review
@@ -31,10 +31,11 @@ This analysis will enable **kms** makes informed descision about logistics strat
 
  #### Files Included
 * [`README.md`](README.md) - Summary of the project
-* [`Kms_analysis.quries~](Kms_analysis.quries) – All SQL queries used
+* [`Kms_analysis.quries`](Kms_analysis.quries) – All SQL queries used
 * [`insights.md`](insights.md) Written insights and business recommendations
-* [~KMS Sql Case Study.csv~](KMS Sql Case Study.csv) Data used for the Analysis
+* [`KMS_Sql_Case_Study.csv`](KMS_Sql_Case_Study.csv) Data used for the Analysis
+[`KMS_Sql-Case_Study.csv`](KMS_Sql-Case_Study.csv)
 * Images and visualizations (screenshots)
-[~Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)
+  [`Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)
 * [`Buttom_10_customers.png`](Buttom_10_customers.png)
 * [`shipping-cost.png`](shipping-cost.png) 

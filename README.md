@@ -33,7 +33,7 @@ This analysis will enable **kms** makes informed descision about logistics strat
 * [`README.md`](README.md) - Summary of the project
 * [`Kms_analysis.quries`](Kms_analysis.quries) – All SQL queries used
 * [`insights.md`](insights.md) Written insights and business recommendations
-* [`KMS_Sql_Case_Study.csv`](KMS_Sql_Case_Study.csv) Data used for the Analysis
+* [`kms_query_solution.sql`](kms_query_solution.sql) Data used for the Analysis
 [`KMS_Sql-Case_Study.csv`](KMS_Sql-Case_Study.csv)
 * Images and visualizations (screenshots)
   [`Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)

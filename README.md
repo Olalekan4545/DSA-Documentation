@@ -30,12 +30,23 @@ This analysis will enable **kms** makes informed descision about logistics strat
 * **Relational database** containing KMS order and logistics data
 
  #### Files Included
-* [`README.md`](README.md) - Summary of the project
-* [`Kms_analysis.quries`](Kms_analysis.quries) – All SQL queries used
+ * [`kms_query_solution.sql`](kms_query_solution.sql) Data used for the Analysis
 * [`insights.md`](insights.md) Written insights and business recommendations
-* [`kms_query_solution.sql`](kms_query_solution.sql) Data used for the Analysis
-[`KMS_Sql-Case_Study.csv`](KMS_Sql-Case_Study.csv)
-* Images and visualizations (screenshots)
-  [`Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)
-* [`Buttom_10_customers.png`](Buttom_10_customers.png)
-* [`shipping-cost.png`](shipping-cost.png) 
+* [`KMS_Sql-Case_Study.csv`](KMS_Sql-Case_Study.csv) Data used for the Project
+* [`Top3_&_buttom3_sales.png`](Top3_&_buttom3_sales.png)  [`Buttom_10_customers.png`](Buttom_10_customers.png) [`shipping-cost.png`](shipping-cost.png)
+Images and visualizations (screenshots)
+* [`Kms_analysis.quries`](Kms_analysis.quries) – All SQL queries used
+* [`README.md`](README.md) - Summary of the project
+
+####  How to Use
+
+1. Download  [`kms_query_solution.sql`](kms_query_solution.sql) file.
+2. Open it in
+ - Microsoft SQL Server 2022 Express (free):*  
+  [Download SQL Server 2022 Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+- *SQL Server Developer Edition (free for development/testing):*  
+  [Download SQL Server 2022 Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+- *Full SQL Server (Evaluation):*  
+  [Download SQL Server 2022 Evaluation](https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2022)
